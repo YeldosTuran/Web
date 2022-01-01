@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444444;
+
+  background-image: url('https://images.everydayhealth.com/images/coronavirus/cv-alert-12-28-21-1440x810.jpg');
+
+}
+.tert1{
+  background-color: #dfe6e9;
+}
